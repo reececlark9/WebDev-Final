@@ -1,0 +1,61 @@
+body {background-color: rgb(113, 229, 231);}
+img {
+    width: 450px;
+    border-style: inset;
+    border-width: 1mm;
+    border-color: black;
+}
+
+h1 {
+    border-style: dotted;
+    border-width: 2mm;
+    border-color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 50px ;
+}
+    
+
+    p {
+        color: rgb(202, 117, 14);
+        font-style: oblique;
+        font-size: 22px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+      }
+
+    ul {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+
+    }
+a {
+color: rgb(220, 36, 128);
+font-weight: 200;
+font-family: monospace;
+font-size: x-large;
+} 
+
+a:hover{
+    color: rgb(3, 37, 26);
+}
+
+ol {
+ font-size: 34px;
+ font-family: inherit;
+ color: rgb(210, 59, 26);
+
+}
+
+
+div {
+    width: 200px;
+}
+
+.tastes {
+    font-size: 22px;
+}
+
+.teams {
+    color: rgb(210, 59, 26);
+}
